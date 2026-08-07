@@ -84,11 +84,26 @@ def view_products(inventory_list):
                     print(f'| {k.capitalize()} : {v}')
     else:
         print('\nNo Inventory Data Stored Yet --------------')
+    return inventory_list #must return even if the func is for printing, otherwise it will return None
 
 def search_product(invventory_list):
     if invventory_list != []:
-        term=input('\nSearch: ').strip()
-        
+        found=False
+        term=input('\nSearch: ').strip().lower()
+        print('_____________Matchings______________')
+        for dict in invventory_list:
+            if term in dict['name'].lower() or term in dict['category'].lower():
+                found=True
+                print('| ',end='')
+                for k,v in dict.items():
+                    print(f' {k.upper()} : {v} ',end='')
+                print('\n')
+        if not found:
+            print('None\n')
+    else:
+        print('\nNo Inventory Data Stored Yet --------------')
+    return invventory_list
+                
 
 
 json_file='inventory_data.json'
