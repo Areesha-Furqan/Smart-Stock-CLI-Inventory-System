@@ -15,19 +15,7 @@
 
 ## 🎬 Demo
 
-<!--
-  Replace the line below with your uploaded video link.
-  See VIDEO_GUIDE.md in this repo for exact step-by-step instructions
-  on how to upload a working, playable demo video to GitHub.
--->
-
-> 🎥 **Demo video coming soon** — see [`VIDEO_GUIDE.md`](./VIDEO_GUIDE.md) for how to add one that plays directly in this README.
-
-```
-https://github.com/Areesha-Furqan/SmartStock-Inventory-System/assets/<your-upload-id>/demo.mp4
-```
-
-Once uploaded, that link — pasted on its own line — turns into an inline, playable video player right here on GitHub. No extra HTML needed.
+> 🎥 **Demo video coming soon**
 
 ---
 
