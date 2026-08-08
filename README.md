@@ -195,6 +195,6 @@ Built as part of my **Python Learning Journey** to demonstrate mastery of CLI ap
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Areesha--Furqan-181717?style=for-the-badge&logo=github)](https://github.com/Areesha-Furqan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Areesha%20Furqan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/areesha-furqan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Areesha%20Furqan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/areesha-furqan-100728346/)
 
 </div>
